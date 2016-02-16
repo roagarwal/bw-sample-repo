@@ -1,0 +1,9 @@
+package com.tibco.bwce.maven.plugin.cf;
+
+import org.apache.maven.plugins.annotations.LifecyclePhase;
+import org.apache.maven.plugins.annotations.Mojo;
+
+@Mojo( name = "cli", defaultPhase = LifecyclePhase.PACKAGE )
+public class BWCECloudFoundryMojo {
+
+}

@@ -1,0 +1,20 @@
+{
+    "groupByApiRegistry": false,
+    "layout": "flat",
+    "config": [
+        {
+            "name": "API Modeler",
+            "type": "remote",
+            "readonly": false,
+            "isEnabled": true,
+            "url": "http://192.168.59.103:8888"
+        },
+        {
+            "name": "Samples Folder",
+            "type": "local",
+            "readonly": false,
+            "isEnabled": true,
+            "url": "file:/C:/TIBCO_HOME/bwcf/1.0/samples"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.apache.maven.lifecycle.internal.LifecycleModuleBuilder"><rhs name\="com.tibco.bw.maven.plugin.lifecycle.BWCELifecycleModuleBuilder"/></lhs><lhs name\="com.tibco.bw.maven.plugin.lifecycle.BWCELifecycleModuleBuilder"><rhs name\="com.tibco.bw.maven.plugin.lifecycle.BWCELifecycleModuleBuilder"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="org.apache.maven.project.MavenProject"/></lhs><lhs name\="org.apache.maven.project.MavenProject"><rhs name\="org.apache.maven.project.MavenProject"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="org.apache.maven.artifact.Artifact"><rhs name\="org.apache.maven.artifact.DefaultArtifact"/></lhs><lhs name\="org.apache.maven.artifact.DefaultArtifact"><rhs name\="org.apache.maven.artifact.DefaultArtifact"/></lhs><lhs name\="org.codehaus.plexus.archiver.zip.ZipArchiver"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.archiver.zip.AbstractZipArchiver"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.archiver.AbstractArchiver"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.archiver.Archiver"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.personality.plexus.lifecycle.phase.Contextualizable"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.archiver.FilterEnabled"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.archiver.FinalizerEnabled"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.logging.AbstractLogEnabled"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.logging.LogEnabled"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs><lhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"><rhs name\="org.codehaus.plexus.archiver.jar.JarArchiver"/></lhs></history>
+content_assist_number_of_computers=13
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+proposalOrderMigrated=true
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

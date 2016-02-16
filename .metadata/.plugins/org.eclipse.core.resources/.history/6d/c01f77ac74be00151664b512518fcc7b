@@ -1,0 +1,17 @@
+package com.tibco.bwce.maven.plugin.cf;
+
+import org.apache.maven.plugin.AbstractMojo;
+import org.apache.maven.plugin.MojoExecutionException;
+import org.apache.maven.plugin.MojoFailureException;
+import org.apache.maven.plugins.annotations.LifecyclePhase;
+import org.apache.maven.plugins.annotations.Mojo;
+
+@Mojo( name = "cli", defaultPhase = LifecyclePhase.PACKAGE )
+public class BWCECloudFoundryMojo extends AbstractMojo{
+
+	public void execute() throws MojoExecutionException, MojoFailureException {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

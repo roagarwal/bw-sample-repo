@@ -1,0 +1,4 @@
+bwce.app.http.sample.application|tibco.preference.bw.profileConfigProperties=PropertyFirstColumnId,0,200;default,1,200;PCFProfile,2,200
+bwce.http.sample.application|tibco.preference.bw.profileConfigProperties=PropertyFirstColumnId,0,200;default,1,200;PCFProfile,2,200
+cf.test.application|tibco.preference.bw.profileConfigProperties=PropertyFirstColumnId,0,200;default,1,200;Profile,2,200
+eclipse.preferences.version=1

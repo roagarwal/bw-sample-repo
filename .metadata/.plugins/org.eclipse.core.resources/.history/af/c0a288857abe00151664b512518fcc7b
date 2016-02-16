@@ -1,0 +1,11 @@
+package com.tibco.bw.maven.plugin.lifecycle;
+
+import org.apache.maven.lifecycle.internal.LifecycleModuleBuilder;
+import org.codehaus.plexus.component.annotations.Component;
+
+@Component( role = LifecycleModuleBuilder.class )
+public class BWCELifecycleModuleBuilder extends LifecycleModuleBuilder{
+	
+	
+
+}

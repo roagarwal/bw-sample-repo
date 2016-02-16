@@ -1,0 +1,6 @@
+package com.tibco.bw.maven.plugin.pombuilder;
+
+public class Snippet {
+	readModel(File)
+}
+

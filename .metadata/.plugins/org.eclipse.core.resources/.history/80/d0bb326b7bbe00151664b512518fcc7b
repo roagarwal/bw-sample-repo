@@ -1,0 +1,25 @@
+package com.tibco.bw.maven.plugin.lifecycle;
+
+import org.apache.maven.execution.MavenSession;
+import org.apache.maven.lifecycle.internal.LifecycleModuleBuilder;
+import org.apache.maven.lifecycle.internal.ReactorContext;
+import org.apache.maven.lifecycle.internal.TaskSegment;
+import org.apache.maven.project.MavenProject;
+import org.codehaus.plexus.component.annotations.Component;
+import org.codehaus.plexus.component.annotations.Requirement;
+import org.codehaus.plexus.logging.Logger;
+
+@Component( role = LifecycleModuleBuilder.class )
+public class BWCELifecycleModuleBuilder extends LifecycleModuleBuilder{
+	
+	 @Requirement
+	  private Logger logger;
+	
+	@Override
+	public void buildProject( MavenSession session, ReactorContext reactorContext, MavenProject currentProject,
+            TaskSegment taskSegment )
+	{
+		logger.info( "BWCE push plugin ..");
+	}
+
+}

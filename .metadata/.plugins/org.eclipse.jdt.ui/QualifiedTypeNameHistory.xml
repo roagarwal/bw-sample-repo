@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.cloudfoundry.client.ValidationResultTest"/>
+<fullyQualifiedTypeName name="org.apache.maven.DefaultMaven"/>
+<fullyQualifiedTypeName name="org.apache.maven.execution.MavenExecutionResult"/>
+<fullyQualifiedTypeName name="org.apache.maven.execution.MavenExecutionRequest"/>
+<fullyQualifiedTypeName name="org.apache.maven.execution.MavenSession"/>
+<fullyQualifiedTypeName name="org.apache.maven.lifecycle.internal.LifecycleStarter"/>
+<fullyQualifiedTypeName name="org.apache.maven.execution.ProjectExecutionListener"/>
+<fullyQualifiedTypeName name="javax.annotation.OverridingMethodsMustInvokeSuper"/>
+<fullyQualifiedTypeName name="org.apache.maven.execution.ExecutionListener"/>
+<fullyQualifiedTypeName name="org.apache.maven.lifecycle.internal.LifecycleModuleBuilder"/>
+<fullyQualifiedTypeName name="com.tibco.bw.maven.plugin.lifecycle.BWCELifecycleModuleBuilder"/>
+<fullyQualifiedTypeName name="org.apache.maven.project.MavenProject"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder"/>
+<fullyQualifiedTypeName name="org.apache.maven.lifecycle.internal.builder.Builder"/>
+<fullyQualifiedTypeName name="org.apache.maven.lifecycle.internal.ProjectBuildList"/>
+<fullyQualifiedTypeName name="org.apache.maven.lifecycle.internal.ReactorBuildStatus"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.cloudfoundry.maven.AbstractPush"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="org.apache.maven.artifact.Artifact"/>
+<fullyQualifiedTypeName name="org.apache.maven.artifact.DefaultArtifact"/>
+<fullyQualifiedTypeName name="org.cloudfoundry.maven.AbstractCloudFoundryMojo"/>
+<fullyQualifiedTypeName name="org.apache.maven.artifact.repository.ArtifactRepository"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.apache.maven.shared.utils.io.FileUtils"/>
+<fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+<fullyQualifiedTypeName name="com.tibco.bw.maven.plugin.utils.BWFileUtils"/>
+<fullyQualifiedTypeName name="org.apache.maven.shared.utils.StringUtils"/>
+<fullyQualifiedTypeName name="org.eclipse.aether.util.StringUtils"/>
+<fullyQualifiedTypeName name="org.codehaus.plexus.interpolation.util.StringUtils"/>
+<fullyQualifiedTypeName name="org.codehaus.plexus.util.StringUtils"/>
+<fullyQualifiedTypeName name="org.codehaus.plexus.archiver.jar.JarArchiver"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

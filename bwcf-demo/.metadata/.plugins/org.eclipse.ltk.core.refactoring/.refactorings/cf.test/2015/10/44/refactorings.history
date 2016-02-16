@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;cf.test/Resources/cf/test/HTTPConnectorResource.httpConnResource&apos; to &apos;HTTPConnectorResource&apos;" description="Rename resource &apos;HTTPConnectorResource.httpConnResource&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Resources/cf/test/HTTPConnectorResource.httpConnResource" name="HTTPConnectorResource" stamp="1445940159252" updateReferences="true"/>
+</session>

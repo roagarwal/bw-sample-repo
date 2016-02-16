@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2016-02-16 10:24:24.962 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.1.1 - (764942): instance a816c00e-0152-e99c-0e88-ffffdaff2ba7
+on database directory D:\CloudFoundryAWSsetup\bw-workspace\.metadata\.plugins\com.tibco.xpd.resources\db\TibcoResources  
+
+Database Class Loader started - derby.database.classpath=''

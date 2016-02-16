@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sca:composite xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BW="http://xsd.tns.tibco.com/amf/models/sca/implementationtype/BW" xmlns:XMLSchema="http://www.w3.org/2001/XMLSchema" xmlns:compositeext="http://schemas.tibco.com/amx/3.0/compositeext" xmlns:jdbc="http://xsd.tns.tibco.com/amf/models/sharedresource/jdbc" xmlns:property="http://ns.tibco.com/bw/property" xmlns:sca="http://www.osoa.org/xmlns/sca/1.0" xmlns:scaext="http://xsd.tns.tibco.com/amf/models/sca/extensions" xmi:id="_Wq2usEkKEeSzsYO5FApXPA" targetNamespace="http://tns.tibco.com/bw/composite/tibco.bwce.sample.palette.jdbc.Basic" name="tibco.bwce.sample.palette.jdbc.Basic" compositeext:version="1.0.0" compositeext:description="Setting up a JDBC Connection to Query and Update Tables" compositeext:formatVersion="2">
+  <sca:property xmi:id="_XhDW4EkKEeSzsYO5FApXPA" name="BW.APPNODE.NAME" type="XMLSchema:string" scalable="true"/>
+  <sca:property xmi:id="_XhW44EkKEeSzsYO5FApXPA" name="BW.HOST.NAME" type="XMLSchema:string" scalable="true"/>
+  <sca:property xmi:id="_XhcYcEkKEeSzsYO5FApXPA" name="BW.MODULE.VERSION" type="XMLSchema:string" scalable="true"/>
+  <sca:property xmi:id="_XhifEEkKEeSzsYO5FApXPA" name="BW.DEPLOYMENTUNIT.NAME" type="XMLSchema:string" scalable="true"/>
+  <sca:property xmi:id="_XhpMwEkKEeSzsYO5FApXPA" name="BW.DEPLOYMENTUNIT.VERSION" type="XMLSchema:string" scalable="true"/>
+  <sca:property xmi:id="_Xh984EkKEeSzsYO5FApXPA" name="BW.MODULE.NAME" type="XMLSchema:string" scalable="true"/>
+  <sca:property xmi:id="_JSWAAEkLEeSzsYO5FApXPA" name="JDBCConnectionResource" type="jdbc:JdbcDataSource" publicAccess="true" scalable="true"/>
+  <sca:property xmi:id="_JVUbgEkLEeSzsYO5FApXPA" name="JDBC_DRIVER" type="XMLSchema:string" publicAccess="true" scalable="true"/>
+  <sca:property xmi:id="_JZV_4EkLEeSzsYO5FApXPA" name="JDBC_URL" type="XMLSchema:string" publicAccess="true" scalable="true"/>
+  <sca:property xmi:id="_Jc5qMEkLEeSzsYO5FApXPA" name="PASSWORD" type="property:password" publicAccess="true" scalable="true"/>
+  <sca:property xmi:id="_Jgz50EkLEeSzsYO5FApXPA" name="USERNAME" type="XMLSchema:string" publicAccess="true" scalable="true"/>
+  <sca:property xmi:id="_JkXkIEkLEeSzsYO5FApXPA" name="ORDER_ID" type="XMLSchema:int" scaext:simpleValue="0" publicAccess="true" scalable="true"/>
+  <sca:property xmi:id="_TIeo8Hz8EeWH1LxePQ_xJg" name="BW.CLOUD.PORT" type="XMLSchema:int" scalable="true"/>
+  <sca:component xmi:id="_STeEsH6KEeWOrovsDYPjOA" name="ComponentActivator" compositeext:version="1.0.0.qualifier">
+    <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_STeEsX6KEeWOrovsDYPjOA" processName="tibco.bwce.sample.palette.jdbc.basic.Activator"/>
+  </sca:component>
+  <sca:component xmi:id="_tgjckITWEeWQCumzFnqDZw" name="ComponentJDBC_TEST" compositeext:version="1.0.0.qualifier">
+    <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_tgjckYTWEeWQCumzFnqDZw" processName="tibco.bwce.sample.palette.jdbc.basic.JDBC_TEST"/>
+  </sca:component>
+</sca:composite>

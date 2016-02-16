@@ -1,0 +1,28 @@
+package com.tibco.bw.maven.plugin.lifecycle;
+
+import java.util.List;
+
+import org.apache.maven.execution.MavenSession;
+import org.apache.maven.lifecycle.internal.LifecycleModuleBuilder;
+import org.apache.maven.lifecycle.internal.ProjectBuildList;
+import org.apache.maven.lifecycle.internal.ReactorBuildStatus;
+import org.apache.maven.lifecycle.internal.ReactorContext;
+import org.apache.maven.lifecycle.internal.TaskSegment;
+import org.apache.maven.lifecycle.internal.builder.Builder;
+import org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder;
+import org.apache.maven.project.MavenProject;
+import org.codehaus.plexus.component.annotations.Component;
+import org.codehaus.plexus.component.annotations.Requirement;
+import org.codehaus.plexus.logging.Logger;
+
+@Component( role = Builder.class, hint = "singlethreaded" )
+public class BWCELifecycleModuleBuilder extends SingleThreadedBuilder{
+
+	@Override
+	public void build( MavenSession session, ReactorContext reactorContext, ProjectBuildList projectBuilds,
+			List<TaskSegment> taskSegments, ReactorBuildStatus reactorBuildStatus )
+	{
+
+	}
+
+}

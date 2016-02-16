@@ -1,0 +1,8 @@
+package com.tibco.bwce.maven.plugin.cloudfoundry;
+
+import org.cloudfoundry.maven.AbstractCloudFoundryMojo;
+
+public abstract class AbstractBWCECloudFoundryMojo extends AbstractCloudFoundryMojo{
+
+	
+}

@@ -1,0 +1,11 @@
+{
+    "groupByApiRegistry": false,
+    "layout": "flat",
+    "config": [{
+        "name": "Cloud",
+        "type": "cloud",
+        "readonly": false,
+        "isEnabled": true,
+        "url": "http://192.168.59.103:8888"
+    }]
+}

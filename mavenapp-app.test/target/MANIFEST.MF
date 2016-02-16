@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: mavenapp-app.test
+Bundle-ManifestVersion: 2
+TIBCO-BW-Edition: bwcf
+Bundle-Vendor: TIBCO Software Inc.
+TIBCO-BW-ModuleSharedVariables: META-INF/module.msv
+Require-Capability: com.tibco.bw.model; filter:="(name=bwext)",com.tib
+ co.bw.palette; filter:="(name=bw.http)",com.tibco.bw.sharedresource.m
+ odel; filter:="(name=bw.httpconnector)"
+TIBCO-BW-ConfigProfile: META-INF/default.substvar
+TIBCO-BW-Version: 1.0.0 V47 2015-11-17
+Bundle-Name: Mavenapp-app Test Module
+Bundle-Version: 1.0.0.201602161509
+Bundle-ClassPath: .,lib/maven-dependency-plugin-2.10.jar
+TIBCO-BW-ApplicationModule: META-INF/module.bwm
+TIBCO-BW-JobSharedVariables: META-INF/module.jsv
+

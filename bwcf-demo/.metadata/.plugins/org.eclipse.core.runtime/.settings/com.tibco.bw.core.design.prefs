@@ -1,0 +1,6 @@
+com.tibco.bw.core.design.pcf.connection.url=https\://api.tibcopcf.net
+com.tibco.bw.core.design.pcf.connection.userid=admin
+com.tibco.bw.core.design.pcf.connection.userpassword=\#\!Nqmj6Zo3G2LflGYme65SGGJ2ZWDc4gaYTb5f4Ntnk2h7NP5ponOCXpw6fDOPaoGhOCpwJIEiyvk\=
+com.tibco.bw.core.design.wizardDefaults.createSchemaOption=com.tibco.bw.core.design.create_new_schema
+com.tibco.bw.core.design.wizardDefaults.createWsdlOption=com.tibco.bw.core.design.create_new_wsdl
+eclipse.preferences.version=1
