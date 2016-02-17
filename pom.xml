@@ -7,8 +7,8 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-    <module>mavenapp-app.test</module>
-    <module>mavenapp-app.test.application</module>
+    <module>mavenapp-app.test1</module>
+    <module>mavenapp-app.test1.application</module>
   </modules>
   <build>
     <plugins>
