@@ -33,14 +33,6 @@
           <skip>false</skip>
           <memory>1024</memory>
           <buildpack>bw-buildpack</buildpack>
-          <services>
-            <service>
-              <name>spring-cloud-config-server</name>
-              <label></label>
-              <version></version>
-              <plan></plan>
-            </service>
-          </services>
         </configuration>
       </plugin>
     </plugins>
